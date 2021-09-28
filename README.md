@@ -1,2 +1,2 @@
-# Sistema de Multiplex en C++
+# Plataforma Para Cinema Multiplex en C++
 Este fue el proyecto final de la asignatura Pensamiento Algoritmico en el periodo 2016-1 de la carrera de Ingeniería Electrónica en la Pontificia Universidad Javeriana de Bogotá D.C., Colombia. Se implementó una plataforma a travez de la cual se puede llevar a cabo todo el manejo de un cinema multiplex, desde la revisión de peliculas en taquilla, asientos disponibles, entre otros.
