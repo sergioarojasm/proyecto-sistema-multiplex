@@ -1,2 +1,2 @@
-# Sistema de Gestión Para Multiplex en C++
-Este fue el proyecto final de la asignatura Pensamiento Algoritmico en el periodo 2016-1 de la carrera de Ingeniería Electrónica en la Pontificia Universidad Javeriana de Bogotá D.C., Colombia. Se implementó una plataforma a travez de la cual se puede llevar a cabo todo el manejo de un cinema multiplex, desde la revisión de peliculas en taquilla, asientos disponibles, entre otros.
+# Multiplex Management System in C++
+This was the final project for the Algorithmic Thinking course in the 2016-1 period of the Electronics Engineering program at the Pontificia Universidad Javeriana in Bogotá D.C., Colombia. A platform was implemented through which the entire management of a multiplex cinema can be carried out, from checking movies at the box office to available seats, among others.
